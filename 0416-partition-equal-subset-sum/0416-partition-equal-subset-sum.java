@@ -1,10 +1,13 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        if(Arrays.stream(nums).sum() % 2 != 0){
+        int sum=0, n = nums.length;
+        for(int num:nums){
+            sum+=num;
+        }
+        if(sum%2!=0){
             return false;
         }
-        
-        int target = Arrays.stream(nums).sum()/2, n = nums.length;
+        int target= sum/2;
         Set<Integer> dp = new HashSet<>();
         dp.add(0); //baseCase always Zero sum possible
 
