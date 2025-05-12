@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Nero007x/ProblemSolving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/Nero007x/ProblemSolving/tree/master/0136-single-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0494-target-sum) |
@@ -53,5 +54,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Nero007x/ProblemSolving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
