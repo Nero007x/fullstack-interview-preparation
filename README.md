@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
+## Concurrency
+|  |
+| ------- |
+| [1340-the-dining-philosophers](https://github.com/Nero007x/ProblemSolving/tree/master/1340-the-dining-philosophers) |
 <!---LeetCode Topics End-->
