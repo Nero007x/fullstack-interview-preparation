@@ -1,9 +1,6 @@
-import java.util.concurrent.Semaphore;
-
 class FooBar {
     private int n;
-    private Semaphore fooSemaphore = new Semaphore(1); // start with foo
-    private Semaphore barSemaphore = new Semaphore(0); // bar waits
+    private AtomicInteger turn = new AtomicInteger(0); // 0 for foo, 1 for bar
 
     public FooBar(int n) {
         this.n = n;
@@ -11,17 +8,21 @@ class FooBar {
 
     public void foo(Runnable printFoo) throws InterruptedException {
         for (int i = 0; i < n; i++) {
-            fooSemaphore.acquire();
+            while (turn.get() != 0) {
+                // busy wait
+            }
             printFoo.run();
-            barSemaphore.release();
+            turn.set(1); // allow bar to run
         }
     }
 
     public void bar(Runnable printBar) throws InterruptedException {
         for (int i = 0; i < n; i++) {
-            barSemaphore.acquire();
+            while (turn.get() != 1) {
+                // busy wait
+            }
             printBar.run();
-            fooSemaphore.release();
+            turn.set(0); // allow foo to run
         }
     }
 }
