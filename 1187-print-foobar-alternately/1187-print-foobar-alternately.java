@@ -12,7 +12,7 @@ class FooBar {
                 // busy wait
             }
             printFoo.run();
-            turn.set(1); // allow bar to run
+            turn.incrementAndGet(); // allow bar to run
         }
     }
 
@@ -22,7 +22,7 @@ class FooBar {
                 // busy wait
             }
             printBar.run();
-            turn.set(0); // allow foo to run
+            turn.decrementAndGet(); // allow foo to run
         }
     }
 }
