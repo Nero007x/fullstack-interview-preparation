@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
+| [0332-reconstruct-itinerary](https://github.com/Nero007x/ProblemSolving/tree/master/0332-reconstruct-itinerary) |
 ## Matrix
 |  |
 | ------- |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nero007x/ProblemSolving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Nero007x/ProblemSolving/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Nero007x/ProblemSolving/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
