@@ -1,66 +1,74 @@
-import java.util.*;
-
 class Twitter {
-    private static int timeStamp = 0;
 
-    // Tweet class to store tweet id and timestamp
-    private static class Tweet {
+    private static int timeStampe = 0;
+
+    private static class Tweet{
         int tweetId;
         int time;
 
-        Tweet(int tweetId, int time) {
+        Tweet(int tweetId, int time){
             this.tweetId = tweetId;
             this.time = time;
         }
     }
-
-    // Maps userId -> set of users they follow
-    private Map<Integer, Set<Integer>> followMap;
-    // Maps userId -> list of tweets
-    private Map<Integer, List<Tweet>> tweetMap;
-
+    //userid ---> set(followeeIds))
+    Map<Integer, Set<Integer>> followMap;
+    //usetid --> list(tweets)
+    Map<Integer, List<Tweet>> tweetMap;
     public Twitter() {
-        followMap = new HashMap<>();
-        tweetMap = new HashMap<>();
+        this.followMap = new HashMap<>();
+        this.tweetMap = new HashMap<>();
     }
-
+    
     public void postTweet(int userId, int tweetId) {
         tweetMap.putIfAbsent(userId, new ArrayList<>());
-        tweetMap.get(userId).add(new Tweet(tweetId, timeStamp++));
+        tweetMap.get(userId).add(new Tweet(tweetId, timeStampe++));
     }
-
+    
     public List<Integer> getNewsFeed(int userId) {
-        PriorityQueue<Tweet> maxHeap = new PriorityQueue<>((a, b) -> b.time - a.time);
+        //step1 : setting up maxHeap based timestampe
+        PriorityQueue<Tweet> maxHeap = new PriorityQueue<>((a,b)->b.time - a.time);
+
+        //step2 : gather all users including current user
         Set<Integer> users = new HashSet<>();
+        users.add(userId);
+        users.addAll(followMap.getOrDefault(userId, new HashSet<>()));
 
-        users.add(userId);  // add self
-        users.addAll(followMap.getOrDefault(userId, new HashSet<>()));  // add followees
-
-        for (int user : users) {
+        //step3 : add each user tweets to maxHeap
+        for(int user : users){
             List<Tweet> tweets = tweetMap.getOrDefault(user, new ArrayList<>());
-            for (Tweet tweet : tweets) {
-                maxHeap.offer(tweet);
+            for(Tweet t : tweets){
+                maxHeap.offer(t);
             }
-        }
+        } 
 
-        List<Integer> result = new ArrayList<>();
+        //stepr : retrive all top 10 recent tweets
         int count = 0;
-        while (!maxHeap.isEmpty() && count < 10) {
+        List<Integer> result = new ArrayList<>();
+        while(!maxHeap.isEmpty() && count<10){
             result.add(maxHeap.poll().tweetId);
             count++;
-        }
-        return result;
+        } 
+        return result;   
     }
-
+    
     public void follow(int followerId, int followeeId) {
-        if (followerId == followeeId) return;
+        if(followerId == followeeId) return;
         followMap.putIfAbsent(followerId, new HashSet<>());
         followMap.get(followerId).add(followeeId);
     }
-
+    
     public void unfollow(int followerId, int followeeId) {
-        if (followMap.containsKey(followerId)) {
-            followMap.get(followerId).remove(followeeId);
-        }
+        if(followMap.containsKey(followerId))
+        followMap.get(followerId).remove(followeeId);
     }
 }
+
+/**
+ * Your Twitter object will be instantiated and called as such:
+ * Twitter obj = new Twitter();
+ * obj.postTweet(userId,tweetId);
+ * List<Integer> param_2 = obj.getNewsFeed(userId);
+ * obj.follow(followerId,followeeId);
+ * obj.unfollow(followerId,followeeId);
+ */
