@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Nero007x/ProblemSolving/tree/master/0016-3sum-closest) |
+| [0295-find-median-from-data-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0295-find-median-from-data-stream) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nero007x/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Nero007x/ProblemSolving/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nero007x/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/Nero007x/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nero007x/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Nero007x/ProblemSolving/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nero007x/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Nero007x/ProblemSolving/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
