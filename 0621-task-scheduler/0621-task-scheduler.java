@@ -5,7 +5,7 @@ class Solution {
             freq[task - 'A']++;
         }
 
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<>((a,b)-> b-a);
         for(int f : freq){
             if(f>0){
                 maxHeap.offer(f);
@@ -28,6 +28,8 @@ class Solution {
                     coolDown.offer(new int[]{cur, time+n+1});
                 }
             }
+
+            
         }
 
         return time;
