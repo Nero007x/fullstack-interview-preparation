@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Nero007x/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Nero007x/ProblemSolving/tree/master/1127-last-stone-weight) |
+| [2483-task-scheduler-ii](https://github.com/Nero007x/ProblemSolving/tree/master/2483-task-scheduler-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nero007x/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Nero007x/ProblemSolving/tree/master/0205-isomorphic-strings) |
 | [0355-design-twitter](https://github.com/Nero007x/ProblemSolving/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
+| [2483-task-scheduler-ii](https://github.com/Nero007x/ProblemSolving/tree/master/2483-task-scheduler-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nero007x/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nero007x/ProblemSolving/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [2483-task-scheduler-ii](https://github.com/Nero007x/ProblemSolving/tree/master/2483-task-scheduler-ii) |
 <!---LeetCode Topics End-->
