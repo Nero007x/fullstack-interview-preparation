@@ -1,21 +1,23 @@
 class Solution {
     public long taskSchedulerII(int[] tasks, int space) {
-        Map<Integer, Long> lastDone = new HashMap<>();
+        Map<Integer, Long> taskLastDone = new HashMap<>();
         long day = 0;
 
-        for (int task : tasks) {
+        for(int task : tasks){
             day++;
 
-            if (lastDone.containsKey(task)) {
-                long lastDay = lastDone.get(task);
-                if (day <= lastDay + space) {
-                    day = lastDay + space + 1;
+            if(taskLastDone.containsKey(task)){
+                long dayPrevDone = taskLastDone.get(task);
+                if(day<= dayPrevDone + space){
+                    day = dayPrevDone + space + 1;
                 }
             }
 
-            lastDone.put(task, day);
+
+
+            taskLastDone.put(task, day);
         }
 
-        return day;
+       return day; 
     }
 }
