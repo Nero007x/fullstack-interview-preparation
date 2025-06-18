@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/Nero007x/ProblemSolving/tree/master/2206-detonate-the-maximum-bombs) |
 | [2483-task-scheduler-ii](https://github.com/Nero007x/ProblemSolving/tree/master/2483-task-scheduler-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nero007x/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3324-split-the-array](https://github.com/Nero007x/ProblemSolving/tree/master/3324-split-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
 | [2483-task-scheduler-ii](https://github.com/Nero007x/ProblemSolving/tree/master/2483-task-scheduler-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nero007x/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3324-split-the-array](https://github.com/Nero007x/ProblemSolving/tree/master/3324-split-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
+| [3324-split-the-array](https://github.com/Nero007x/ProblemSolving/tree/master/3324-split-the-array) |
 ## Linked List
 |  |
 | ------- |
