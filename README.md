@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Nero007x/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Nero007x/ProblemSolving/tree/master/1127-last-stone-weight) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Nero007x/ProblemSolving/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nero007x/ProblemSolving/tree/master/2206-detonate-the-maximum-bombs) |
 | [2483-task-scheduler-ii](https://github.com/Nero007x/ProblemSolving/tree/master/2483-task-scheduler-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nero007x/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nero007x/ProblemSolving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0954-maximum-sum-circular-subarray) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Nero007x/ProblemSolving/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Combinatorics
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nero007x/ProblemSolving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Nero007x/ProblemSolving/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Graph
 |  |
 | ------- |
