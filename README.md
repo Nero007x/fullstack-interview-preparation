@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nero007x/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Nero007x/ProblemSolving/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Nero007x/ProblemSolving/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nero007x/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Nero007x/ProblemSolving/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nero007x/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Nero007x/ProblemSolving/tree/master/0474-ones-and-zeroes) |
