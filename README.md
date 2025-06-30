@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Nero007x/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Nero007x/ProblemSolving/tree/master/1127-last-stone-weight) |
+| [1311-largest-magic-square](https://github.com/Nero007x/ProblemSolving/tree/master/1311-largest-magic-square) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Nero007x/ProblemSolving/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nero007x/ProblemSolving/tree/master/2206-detonate-the-maximum-bombs) |
 | [2483-task-scheduler-ii](https://github.com/Nero007x/ProblemSolving/tree/master/2483-task-scheduler-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1311-largest-magic-square](https://github.com/Nero007x/ProblemSolving/tree/master/1311-largest-magic-square) |
 ## Concurrency
 |  |
 | ------- |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Nero007x/ProblemSolving/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Nero007x/ProblemSolving/tree/master/0177-nth-highest-salary) |
 | [1339-team-scores-in-football-tournament](https://github.com/Nero007x/ProblemSolving/tree/master/1339-team-scores-in-football-tournament) |
+## Prefix Sum
+|  |
+| ------- |
+| [1311-largest-magic-square](https://github.com/Nero007x/ProblemSolving/tree/master/1311-largest-magic-square) |
 <!---LeetCode Topics End-->
