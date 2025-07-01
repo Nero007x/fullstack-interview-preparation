@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/Nero007x/ProblemSolving/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nero007x/ProblemSolving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-koko-eating-bananas](https://github.com/Nero007x/ProblemSolving/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0954-maximum-sum-circular-subarray) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Nero007x/ProblemSolving/tree/master/0332-reconstruct-itinerary) |
+| [0695-max-area-of-island](https://github.com/Nero007x/ProblemSolving/tree/master/0695-max-area-of-island) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nero007x/ProblemSolving/tree/master/2206-detonate-the-maximum-bombs) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Nero007x/ProblemSolving/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Matrix
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0695-max-area-of-island](https://github.com/Nero007x/ProblemSolving/tree/master/0695-max-area-of-island) |
 | [1311-largest-magic-square](https://github.com/Nero007x/ProblemSolving/tree/master/1311-largest-magic-square) |
 ## Concurrency
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0695-max-area-of-island](https://github.com/Nero007x/ProblemSolving/tree/master/0695-max-area-of-island) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nero007x/ProblemSolving/tree/master/2206-detonate-the-maximum-bombs) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Nero007x/ProblemSolving/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Topological Sort
@@ -300,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nero007x/ProblemSolving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Nero007x/ProblemSolving/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
