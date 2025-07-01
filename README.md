@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Nero007x/ProblemSolving/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nero007x/ProblemSolving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
+| [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
 | [2483-task-scheduler-ii](https://github.com/Nero007x/ProblemSolving/tree/master/2483-task-scheduler-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nero007x/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3324-split-the-array](https://github.com/Nero007x/ProblemSolving/tree/master/3324-split-the-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Nero007x/ProblemSolving/tree/master/0062-unique-paths) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nero007x/ProblemSolving/tree/master/0380-insert-delete-getrandom-o1) |
+| [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
 | [1014-k-closest-points-to-origin](https://github.com/Nero007x/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Nero007x/ProblemSolving/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nero007x/ProblemSolving/tree/master/2206-detonate-the-maximum-bombs) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Nero007x/ProblemSolving/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/Nero007x/ProblemSolving/tree/master/0205-isomorphic-strings) |
 | [0474-ones-and-zeroes](https://github.com/Nero007x/ProblemSolving/tree/master/0474-ones-and-zeroes) |
+| [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nero007x/ProblemSolving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Depth-First Search
 |  |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Nero007x/ProblemSolving/tree/master/0155-min-stack) |
+| [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
 ## Randomized
 |  |
 | ------- |
@@ -308,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Nero007x/ProblemSolving/tree/master/0695-max-area-of-island) |
+## Recursion
+|  |
+| ------- |
+| [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
 <!---LeetCode Topics End-->
