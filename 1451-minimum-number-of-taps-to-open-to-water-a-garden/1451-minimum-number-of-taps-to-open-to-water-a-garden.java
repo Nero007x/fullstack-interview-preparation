@@ -1,38 +1,29 @@
 class Solution {
     public int minTaps(int n, int[] ranges) {
         int[] jump = new int[n+1];
-
-        for(int i= 0; i< ranges.length; i++){
-
-            if(ranges[i] == 0){
-                continue;
-            }
+        for(int i = 0; i<=n; i++){
+            if(ranges[i]<=0)
+            continue;
 
             int start = Math.max(0, i-ranges[i]);
             int end = Math.min(n, i+ranges[i]);
 
-            jump[start] = Math.max(jump[start], end);
+            jump[start] = Math.max(jump[start], end); //5, 
         }
 
-        int farest = 0;
-        int taps = 0;
+        int farthest = 0;
         int currEnd = 0;
+        int tap = 0;
 
-        for(int i =0; i<n; i++){
-            farest = Math.max(farest, jump[i]);
-
-            //its time to use new tap
-            if(i==currEnd){
-                // If the farthest we can reach is no better than our current position,
-                // it means there's a gap we can't cover.
-                if(farest <= i){
+        for(int i = 0; i<n; i++){
+            farthest = Math.max(farthest, jump[i]);
+            if(currEnd == i){
+                if(farthest <= i)
                     return -1;
-                }
-                taps++;
-                currEnd = farest;
+                tap++;
+                currEnd = farthest;
             }
         }
-
-        return farest >= n? taps :-1;
+        return tap;
     }
 }
