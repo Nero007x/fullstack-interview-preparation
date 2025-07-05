@@ -4,11 +4,11 @@
  * @return {Array}
  */
 var flat = function (arr, n) {
-    const result = []
-    function fatten(arr, depth){
+    const result = [];
+    function flatten(arr, depth){
         for(const item of arr){
-            if(typeof item === 'object' && depth < n){
-                fatten(item, depth+1);
+            if(Array.isArray(item) && depth< n){
+                flatten(item, depth+1);
             }else{
                 result.push(item);
             }
@@ -16,6 +16,6 @@ var flat = function (arr, n) {
         return result;
     }
 
-    return fatten(arr, 0);
+    return flatten(arr, 0);
     
 };
