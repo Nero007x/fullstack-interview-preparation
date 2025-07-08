@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-largest-magic-square](https://github.com/Nero007x/ProblemSolving/tree/master/1311-largest-magic-square) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Nero007x/ProblemSolving/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nero007x/ProblemSolving/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nero007x/ProblemSolving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nero007x/ProblemSolving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nero007x/ProblemSolving/tree/master/2206-detonate-the-maximum-bombs) |
 | [2483-task-scheduler-ii](https://github.com/Nero007x/ProblemSolving/tree/master/2483-task-scheduler-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/Nero007x/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nero007x/ProblemSolving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nero007x/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Bit Manipulation
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/Nero007x/ProblemSolving/tree/master/1063-best-sightseeing-pair) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Nero007x/ProblemSolving/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nero007x/ProblemSolving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Nero007x/ProblemSolving/tree/master/0456-132-pattern) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0907-koko-eating-bananas](https://github.com/Nero007x/ProblemSolving/tree/master/0907-koko-eating-bananas) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nero007x/ProblemSolving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
