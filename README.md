@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Nero007x/ProblemSolving/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nero007x/ProblemSolving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nero007x/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Nero007x/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
 | [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nero007x/ProblemSolving/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Nero007x/ProblemSolving/tree/master/0016-3sum-closest) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Nero007x/ProblemSolving/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0295-find-median-from-data-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0295-find-median-from-data-stream) |
+| [0567-permutation-in-string](https://github.com/Nero007x/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nero007x/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Nero007x/ProblemSolving/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nero007x/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Nero007x/ProblemSolving/tree/master/0474-ones-and-zeroes) |
+| [0567-permutation-in-string](https://github.com/Nero007x/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nero007x/ProblemSolving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Depth-First Search
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Nero007x/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Nero007x/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nero007x/ProblemSolving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Union Find
 |  |
