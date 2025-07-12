@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nero007x/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
 | [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
+| [1023-time-based-key-value-store](https://github.com/Nero007x/ProblemSolving/tree/master/1023-time-based-key-value-store) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nero007x/ProblemSolving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nero007x/ProblemSolving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2483-task-scheduler-ii](https://github.com/Nero007x/ProblemSolving/tree/master/2483-task-scheduler-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Nero007x/ProblemSolving/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Nero007x/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
+| [1023-time-based-key-value-store](https://github.com/Nero007x/ProblemSolving/tree/master/1023-time-based-key-value-store) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nero007x/ProblemSolving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Depth-First Search
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Nero007x/ProblemSolving/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nero007x/ProblemSolving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1023-time-based-key-value-store](https://github.com/Nero007x/ProblemSolving/tree/master/1023-time-based-key-value-store) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nero007x/ProblemSolving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Binary Search Tree
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Nero007x/ProblemSolving/tree/master/0456-132-pattern) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0907-koko-eating-bananas](https://github.com/Nero007x/ProblemSolving/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/Nero007x/ProblemSolving/tree/master/1023-time-based-key-value-store) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nero007x/ProblemSolving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Heap (Priority Queue)
 |  |
