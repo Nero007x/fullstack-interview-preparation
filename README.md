@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Nero007x/ProblemSolving/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nero007x/ProblemSolving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Nero007x/ProblemSolving/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Nero007x/ProblemSolving/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Nero007x/ProblemSolving/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Nero007x/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nero007x/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
+| [0883-car-fleet](https://github.com/Nero007x/ProblemSolving/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Nero007x/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nero007x/ProblemSolving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nero007x/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Nero007x/ProblemSolving/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Nero007x/ProblemSolving/tree/master/0739-daily-temperatures) |
 | [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
+| [0883-car-fleet](https://github.com/Nero007x/ProblemSolving/tree/master/0883-car-fleet) |
 ## Randomized
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/Nero007x/ProblemSolving/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Nero007x/ProblemSolving/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/Nero007x/ProblemSolving/tree/master/0883-car-fleet) |
 ## Ordered Set
 |  |
 | ------- |
