@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Nero007x/ProblemSolving/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nero007x/ProblemSolving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/Nero007x/ProblemSolving/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/Nero007x/ProblemSolving/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Nero007x/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nero007x/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nero007x/ProblemSolving/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/Nero007x/ProblemSolving/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/Nero007x/ProblemSolving/tree/master/0739-daily-temperatures) |
 | [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
 ## Randomized
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Nero007x/ProblemSolving/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/Nero007x/ProblemSolving/tree/master/0739-daily-temperatures) |
 ## Ordered Set
 |  |
 | ------- |
