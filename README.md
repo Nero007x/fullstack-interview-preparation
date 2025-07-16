@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nero007x/ProblemSolving/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Nero007x/ProblemSolving/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Nero007x/ProblemSolving/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nero007x/ProblemSolving/tree/master/0097-interleaving-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nero007x/ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Nero007x/ProblemSolving/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nero007x/ProblemSolving/tree/master/0046-permutations) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nero007x/ProblemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Nero007x/ProblemSolving/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Nero007x/ProblemSolving/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Nero007x/ProblemSolving/tree/master/0097-interleaving-string) |
