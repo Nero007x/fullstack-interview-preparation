@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Nero007x/ProblemSolving/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Nero007x/ProblemSolving/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0954-maximum-sum-circular-subarray) |
+| [0967-minimum-falling-path-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Nero007x/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
 | [1063-best-sightseeing-pair](https://github.com/Nero007x/ProblemSolving/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/Nero007x/ProblemSolving/tree/master/1127-last-stone-weight) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nero007x/ProblemSolving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0954-maximum-sum-circular-subarray) |
+| [0967-minimum-falling-path-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Nero007x/ProblemSolving/tree/master/1063-best-sightseeing-pair) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Nero007x/ProblemSolving/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nero007x/ProblemSolving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/Nero007x/ProblemSolving/tree/master/0695-max-area-of-island) |
+| [0967-minimum-falling-path-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0967-minimum-falling-path-sum) |
 | [1311-largest-magic-square](https://github.com/Nero007x/ProblemSolving/tree/master/1311-largest-magic-square) |
 ## Concurrency
 |  |
