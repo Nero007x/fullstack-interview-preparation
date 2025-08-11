@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
 | [1014-k-closest-points-to-origin](https://github.com/Nero007x/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Nero007x/ProblemSolving/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Nero007x/ProblemSolving/tree/master/1362-airplane-seat-assignment-probability) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nero007x/ProblemSolving/tree/master/2206-detonate-the-maximum-bombs) |
 ## Dynamic Programming
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/Nero007x/ProblemSolving/tree/master/1063-best-sightseeing-pair) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Nero007x/ProblemSolving/tree/master/1362-airplane-seat-assignment-probability) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Nero007x/ProblemSolving/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nero007x/ProblemSolving/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Combinatorics
@@ -386,4 +388,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Nero007x/ProblemSolving/tree/master/0456-132-pattern) |
+## Brainteaser
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/Nero007x/ProblemSolving/tree/master/1362-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1362-airplane-seat-assignment-probability](https://github.com/Nero007x/ProblemSolving/tree/master/1362-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
