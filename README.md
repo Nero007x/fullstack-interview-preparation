@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Nero007x/ProblemSolving/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nero007x/ProblemSolving/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Nero007x/ProblemSolving/tree/master/0739-daily-temperatures) |
+| [0829-subdomain-visit-count](https://github.com/Nero007x/ProblemSolving/tree/master/0829-subdomain-visit-count) |
 | [0860-design-circular-queue](https://github.com/Nero007x/ProblemSolving/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/Nero007x/ProblemSolving/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Nero007x/ProblemSolving/tree/master/0907-koko-eating-bananas) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nero007x/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
 | [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
+| [0829-subdomain-visit-count](https://github.com/Nero007x/ProblemSolving/tree/master/0829-subdomain-visit-count) |
 | [1023-time-based-key-value-store](https://github.com/Nero007x/ProblemSolving/tree/master/1023-time-based-key-value-store) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nero007x/ProblemSolving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nero007x/ProblemSolving/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Nero007x/ProblemSolving/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Nero007x/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
+| [0829-subdomain-visit-count](https://github.com/Nero007x/ProblemSolving/tree/master/0829-subdomain-visit-count) |
 | [1023-time-based-key-value-store](https://github.com/Nero007x/ProblemSolving/tree/master/1023-time-based-key-value-store) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nero007x/ProblemSolving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Depth-First Search
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
+| [0829-subdomain-visit-count](https://github.com/Nero007x/ProblemSolving/tree/master/0829-subdomain-visit-count) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nero007x/ProblemSolving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3324-split-the-array](https://github.com/Nero007x/ProblemSolving/tree/master/3324-split-the-array) |
 ## Linked List
