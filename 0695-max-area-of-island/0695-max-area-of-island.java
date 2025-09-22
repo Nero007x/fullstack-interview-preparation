@@ -6,7 +6,7 @@ public class Solution {
 
         int rows = grid.length;
         int cols = grid[0].length;
-        boolean[][] visited = new boolean[rows][cols];
+        boolean visited[][]= new boolean[rows][cols];
         int maxArea = 0;
 
         // BFS function
