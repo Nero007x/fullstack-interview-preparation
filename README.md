@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Nero007x/ProblemSolving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nero007x/ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nero007x/ProblemSolving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nero007x/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nero007x/ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nero007x/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nero007x/ProblemSolving/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Nero007x/ProblemSolving/tree/master/0234-palindrome-linked-list) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nero007x/ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Nero007x/ProblemSolving/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Nero007x/ProblemSolving/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Nero007x/ProblemSolving/tree/master/0883-car-fleet) |
