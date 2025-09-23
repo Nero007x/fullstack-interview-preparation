@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Nero007x/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Nero007x/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Nero007x/ProblemSolving/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Nero007x/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0063-unique-paths-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Nero007x/ProblemSolving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nero007x/ProblemSolving/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Nero007x/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Nero007x/ProblemSolving/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0234-palindrome-linked-list](https://github.com/Nero007x/ProblemSolving/tree/master/0234-palindrome-linked-list) |
 | [0253-meeting-rooms-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0253-meeting-rooms-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nero007x/ProblemSolving/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Nero007x/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Nero007x/ProblemSolving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Nero007x/ProblemSolving/tree/master/0072-edit-distance) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nero007x/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nero007x/ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nero007x/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nero007x/ProblemSolving/tree/master/0155-min-stack) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nero007x/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nero007x/ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Nero007x/ProblemSolving/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Nero007x/ProblemSolving/tree/master/0739-daily-temperatures) |
