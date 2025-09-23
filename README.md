@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nero007x/ProblemSolving/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Nero007x/ProblemSolving/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Nero007x/ProblemSolving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0090-subsets-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nero007x/ProblemSolving/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Nero007x/ProblemSolving/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Nero007x/ProblemSolving/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nero007x/ProblemSolving/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Nero007x/ProblemSolving/tree/master/0115-distinct-subsequences) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Nero007x/ProblemSolving/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0661-image-smoother](https://github.com/Nero007x/ProblemSolving/tree/master/0661-image-smoother) |
