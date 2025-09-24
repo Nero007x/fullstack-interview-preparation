@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0170-two-sum-iii-data-structure-design](https://github.com/Nero007x/ProblemSolving/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nero007x/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0253-meeting-rooms-ii) |
+| [0322-coin-change](https://github.com/Nero007x/ProblemSolving/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nero007x/ProblemSolving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0416-partition-equal-subset-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nero007x/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Nero007x/ProblemSolving/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Nero007x/ProblemSolving/tree/master/0474-ones-and-zeroes) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nero007x/ProblemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Nero007x/ProblemSolving/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/Nero007x/ProblemSolving/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Nero007x/ProblemSolving/tree/master/1036-rotting-oranges) |
