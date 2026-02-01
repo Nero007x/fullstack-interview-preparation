@@ -8,9 +8,7 @@ class Solution(object):
         while curr and k>0:
             curr = curr.next
             k -=1
-
         return curr
-
     def reverseKGroup(self, head, k):
         """
         :type head: Optional[ListNode]
@@ -21,7 +19,6 @@ class Solution(object):
         groupPrev = dummy
 
         while True:
-
             kth = self.getKth(groupPrev, k)
             if not kth:
                 break
@@ -36,7 +33,7 @@ class Solution(object):
                 curr = tmp
 
             tmp = groupPrev.next
-            groupPrev.next = prev
+            groupPrev.next = kth
             groupPrev = tmp
 
         return dummy.next
