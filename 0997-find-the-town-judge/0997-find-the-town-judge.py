@@ -5,11 +5,13 @@ class Solution(object):
         :type trust: List[List[int]]
         :rtype: int
         """
+        if n==1 and not trust:
+            return 1
         score = [0]*(n+1)
 
-        for t in trust:
-            score[t[0]] -=1
-            score[t[1]] +=1
+        for a, b in trust:
+            score[a] -=1
+            score[b] +=1
         
         for i in range(1, n+1):
             if score[i] ==n-1:
