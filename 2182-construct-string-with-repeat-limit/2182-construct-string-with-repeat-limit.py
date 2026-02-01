@@ -5,34 +5,34 @@ class Solution(object):
         :type repeatLimit: int
         :rtype: str
         """
-        freq = Counter(s)
+        freq = [0]*26
+        for ch in s:
+            freq[ord(ch) - ord('a')] +=1
+
         result = []
+        curr= 25
 
-        while True:
-            for ch in range(25, -1, -1):
-                curr = chr(ord('a')+ch)
-                if freq[curr]>0:
-                    break
-            else:
-                break
-
-            use = min(repeatLimit, freq[curr])
-            result.append(curr*use)
+        while curr>=0:
+            if freq[curr] == 0:
+                curr -=1
+                continue
+            
+            use = min(freq[curr], repeatLimit)
+            result.append(chr(ord('a')+curr)*use)
             freq[curr] -=use
 
-            if freq[curr]> 0:
-                for next in range(ch-1, -1, -1):
-                    nextCh = chr(ord('a')+next)
-                    if freq[nextCh]>0:
-                        result.append(nextCh)
-                        freq[nextCh] -=1
-                        break
-                else:
+            if freq[curr] >0:
+                nextCurr = curr -1
+                while nextCurr>=0 and freq[nextCurr] ==0 :
+                    nextCurr -=1 
+
+                if nextCurr <0:
                     break
 
-        return "".join(result)
+                result.append(chr(ord('a')+nextCurr))
+                freq[nextCurr] -= 1
 
+            else:
+                curr -= 1
 
-        
-
-        
+        return "".join(result) 
