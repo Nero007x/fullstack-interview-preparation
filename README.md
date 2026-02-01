@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Nero007x/ProblemSolving/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0967-minimum-falling-path-sum) |
+| [0997-find-the-town-judge](https://github.com/Nero007x/ProblemSolving/tree/master/0997-find-the-town-judge) |
 | [1014-k-closest-points-to-origin](https://github.com/Nero007x/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Nero007x/ProblemSolving/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/Nero007x/ProblemSolving/tree/master/1063-best-sightseeing-pair) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
 | [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
 | [0829-subdomain-visit-count](https://github.com/Nero007x/ProblemSolving/tree/master/0829-subdomain-visit-count) |
+| [0997-find-the-town-judge](https://github.com/Nero007x/ProblemSolving/tree/master/0997-find-the-town-judge) |
 | [1023-time-based-key-value-store](https://github.com/Nero007x/ProblemSolving/tree/master/1023-time-based-key-value-store) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nero007x/ProblemSolving/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nero007x/ProblemSolving/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -444,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nero007x/ProblemSolving/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Nero007x/ProblemSolving/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
