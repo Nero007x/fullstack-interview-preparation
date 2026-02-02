@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Nero007x/ProblemSolving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nero007x/ProblemSolving/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nero007x/ProblemSolving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Nero007x/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0040-combination-sum-ii) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nero007x/ProblemSolving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0456-132-pattern](https://github.com/Nero007x/ProblemSolving/tree/master/0456-132-pattern) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0907-koko-eating-bananas](https://github.com/Nero007x/ProblemSolving/tree/master/0907-koko-eating-bananas) |
