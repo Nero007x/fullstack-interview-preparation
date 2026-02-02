@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nero007x/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Nero007x/ProblemSolving/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nero007x/ProblemSolving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Nero007x/ProblemSolving/tree/master/0162-find-peak-element) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/Nero007x/ProblemSolving/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nero007x/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0253-meeting-rooms-ii) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nero007x/ProblemSolving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nero007x/ProblemSolving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Nero007x/ProblemSolving/tree/master/0162-find-peak-element) |
 | [0456-132-pattern](https://github.com/Nero007x/ProblemSolving/tree/master/0456-132-pattern) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0907-koko-eating-bananas](https://github.com/Nero007x/ProblemSolving/tree/master/0907-koko-eating-bananas) |
