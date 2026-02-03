@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Nero007x/ProblemSolving/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0518-coin-change-ii) |
+| [0528-random-pick-with-weight](https://github.com/Nero007x/ProblemSolving/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nero007x/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Nero007x/ProblemSolving/tree/master/0621-task-scheduler) |
 | [0661-image-smoother](https://github.com/Nero007x/ProblemSolving/tree/master/0661-image-smoother) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Nero007x/ProblemSolving/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nero007x/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nero007x/ProblemSolving/tree/master/0380-insert-delete-getrandom-o1) |
+| [0528-random-pick-with-weight](https://github.com/Nero007x/ProblemSolving/tree/master/0528-random-pick-with-weight) |
 | [0781-basic-calculator-iv](https://github.com/Nero007x/ProblemSolving/tree/master/0781-basic-calculator-iv) |
 | [0788-rotated-digits](https://github.com/Nero007x/ProblemSolving/tree/master/0788-rotated-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/Nero007x/ProblemSolving/tree/master/1014-k-closest-points-to-origin) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Nero007x/ProblemSolving/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Nero007x/ProblemSolving/tree/master/0456-132-pattern) |
+| [0528-random-pick-with-weight](https://github.com/Nero007x/ProblemSolving/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nero007x/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Nero007x/ProblemSolving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0875-koko-eating-bananas](https://github.com/Nero007x/ProblemSolving/tree/master/0875-koko-eating-bananas) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nero007x/ProblemSolving/tree/master/0380-insert-delete-getrandom-o1) |
+| [0528-random-pick-with-weight](https://github.com/Nero007x/ProblemSolving/tree/master/0528-random-pick-with-weight) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nero007x/ProblemSolving/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/Nero007x/ProblemSolving/tree/master/0528-random-pick-with-weight) |
 | [1311-largest-magic-square](https://github.com/Nero007x/ProblemSolving/tree/master/1311-largest-magic-square) |
 ## Sliding Window
 |  |
