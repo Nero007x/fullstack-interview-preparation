@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Nero007x/ProblemSolving/tree/master/0079-word-search) |
+| [0207-course-schedule](https://github.com/Nero007x/ProblemSolving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nero007x/ProblemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Nero007x/ProblemSolving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nero007x/ProblemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Nero007x/ProblemSolving/tree/master/0322-coin-change) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Nero007x/ProblemSolving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Memoization
@@ -483,5 +486,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Nero007x/ProblemSolving/tree/master/0207-course-schedule) |
 | [0997-find-the-town-judge](https://github.com/Nero007x/ProblemSolving/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
