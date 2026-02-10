@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nero007x/ProblemSolving/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Nero007x/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nero007x/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nero007x/ProblemSolving/tree/master/0380-insert-delete-getrandom-o1) |
 | [0528-random-pick-with-weight](https://github.com/Nero007x/ProblemSolving/tree/master/0528-random-pick-with-weight) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nero007x/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Nero007x/ProblemSolving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nero007x/ProblemSolving/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Nero007x/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nero007x/ProblemSolving/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nero007x/ProblemSolving/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Nero007x/ProblemSolving/tree/master/0115-distinct-subsequences) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nero007x/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Nero007x/ProblemSolving/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Database
 |  |
