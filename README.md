@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nero007x/ProblemSolving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Nero007x/ProblemSolving/tree/master/2206-detonate-the-maximum-bombs) |
 | [2483-task-scheduler-ii](https://github.com/Nero007x/ProblemSolving/tree/master/2483-task-scheduler-ii) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Nero007x/ProblemSolving/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Nero007x/ProblemSolving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nero007x/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3324-split-the-array](https://github.com/Nero007x/ProblemSolving/tree/master/3324-split-the-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nero007x/ProblemSolving/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Nero007x/ProblemSolving/tree/master/2182-construct-string-with-repeat-limit) |
 | [2483-task-scheduler-ii](https://github.com/Nero007x/ProblemSolving/tree/master/2483-task-scheduler-ii) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Nero007x/ProblemSolving/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nero007x/ProblemSolving/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3324-split-the-array](https://github.com/Nero007x/ProblemSolving/tree/master/3324-split-the-array) |
 ## Two Pointers
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nero007x/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Nero007x/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nero007x/ProblemSolving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Nero007x/ProblemSolving/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Union Find
 |  |
 | ------- |
