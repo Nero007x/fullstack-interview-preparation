@@ -6,16 +6,15 @@ class Solution:
         elif len(nums) == 1:
             return nums[0]
 
-        
-        count = {}
-        result = maxCount = 0
+        result = count = 0
 
         for n in nums:
-            count[n] = 1 + count.get(n, 0)
 
-            if count[n]> maxCount:
-                maxCount = count[n]
+            if count == 0:
+                count = 0
                 result = n
+
+            count +=1 if n == result else -1
 
         return result
             
